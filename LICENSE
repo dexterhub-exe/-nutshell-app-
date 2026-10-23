@@ -1,0 +1,30 @@
+NutShell — Proprietary License
+
+Copyright (c) 2026 Deepu Das. All rights reserved.
+
+NutShell (the "Software"), including the Android application, its name,
+icon, design, and all accompanying files, is the exclusive property of
+Deepu Das.
+
+PERMITTED
+- You may download and install the official NutShell APK from this
+  repository for your own personal use on your own devices.
+
+NOT PERMITTED
+Without the prior written permission of Deepu Das, you may not:
+- copy, reproduce, or redistribute the Software or any part of it;
+- modify, adapt, translate, or create derivative works from it;
+- sell, rent, sublicense, or otherwise commercialise it;
+- reverse engineer or decompile it, except where applicable law
+  expressly permits this despite this restriction;
+- upload it to any other website, app store, or file-sharing service;
+- remove or alter any copyright, trademark, or ownership notices.
+
+The Software is provided "as is", without warranty of any kind, express
+or implied. In no event shall the copyright holder be liable for any
+claim, damages, or other liability arising from the use of the Software.
+
+Third-party open-source libraries bundled inside the application
+(including FFmpegKit/FFmpeg and AndroidX/Media3 components) remain
+governed by their own respective licenses; this license applies to the
+NutShell application itself.
